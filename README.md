@@ -12,4 +12,9 @@ Proyecto realizado en .Net WinForm implementando patrones de diseño como:
 
 
 Se persisten datos como fecha_hora del movimiento, y los estados del sensor 1 y sensor 2
-  
+
+Tambien se utiliza lo que es modelado en capas haciendo división entré:
+- BLL
+- DAL
+- DOMAIN
+- UI
